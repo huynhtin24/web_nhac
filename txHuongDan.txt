@@ -1,0 +1,7 @@
+Bước 1: Tải code rồi rồi giải nén:
+	Nếu dùng xampp thì copy file "WeMusic" vào "htdocs"
+	Nếu dùng Laragon(Wamp) thì copy file "WeMusic vào "www". (Ở đây mình dùng Laragon)
+Bước 2: Import DataBase. File DataBase mình để trong thư mục rồi.
+	Tạo một Database mới đặt tên là : wemusic rồi import.
+Bước 3: Chạy chương trình.
+	
